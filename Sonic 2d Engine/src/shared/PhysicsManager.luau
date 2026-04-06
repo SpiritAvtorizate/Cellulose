@@ -8,6 +8,7 @@ local function CalculateFriction(Acceleration:Vector2,DeltaTime:number)
     return Vector2.new(math.max(0,math.abs(Acceleration.X)-(Friction*DeltaTime))*math.sign(Acceleration.X),Acceleration.Y)
 end
 
+-- TODO 🤑🤑
 local function CheckIf()
     
 end
