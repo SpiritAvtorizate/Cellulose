@@ -1,7 +1,7 @@
 return {
     Cells={};
     Settings={
-        CellSize=Vector2.new(32,32); --Increases Resolution
+        CellSize=Vector2.new(32,32); --Increases Resolution Base is 16x16
         Terrain=nil;
         CharacterContainer=nil;
         CurrentLevel=nil;
