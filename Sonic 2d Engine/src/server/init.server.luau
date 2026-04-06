@@ -1,1 +1,3 @@
-print("Hello world, from server!")
+--[[
+We are gang wizards, we love casting spells.
+]]
