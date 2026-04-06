@@ -1,3 +1,4 @@
+-- All arrays are generated with a plugin
 return {
     LZ={
     [1]={
